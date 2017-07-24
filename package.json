@@ -1,6 +1,6 @@
 {
   "name": "bicycle-cli",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "the cli tool for bicycle scheme 🚲🚲🚲",
   "main": "index.js",
   "bin": {
